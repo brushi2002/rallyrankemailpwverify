@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appID": "6744039160.com.tennisapp.app",
+        "appID": "8RQR997PZ6.com.tennisapp.app",
         "paths": ["/(drawer)/(tabs)/*", "/"]
       }
     ]
