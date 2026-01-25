@@ -2,7 +2,11 @@
   "applinks": {
     "details": [
       {
-        "appID": "8RQR997PZ6.com.tennisapp.app",
+        "appID": "8RQR997PZ6.com.tennisapp.app", 
+        "paths": ["/(drawer)/(tabs)/*", "/"]
+      },
+      {
+        "appID": "FAKETEAMID.com.tennisapp.app", 
         "paths": ["/(drawer)/(tabs)/*", "/"]
       }
     ]
